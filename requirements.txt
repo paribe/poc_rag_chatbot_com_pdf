@@ -3,12 +3,8 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
-langchain-text-splitters
-langchain-chroma
 python-dotenv
 pypdf
 sentence-transformers
-torch
-transformers
-chromadb
+faiss-cpu
 groq
